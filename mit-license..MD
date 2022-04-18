@@ -1,0 +1,1 @@
+Fizemos a escolha da licença MIT por ela ser bastante permissiva, conhecida na comunidade, garante clareza em seus termos de uso e uma maior flexibilidade em conceder a licença para outros desenvolvedores, o que se torna bastante importante no desenvolvimento de softwares livres, tópico esse que nos importa na implementação do software. 
